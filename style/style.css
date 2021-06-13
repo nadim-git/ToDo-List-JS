@@ -1,0 +1,25 @@
+body{font-family: 'Roboto-Regular';background: rgb(129, 123, 123);}
+.card{
+    /* padding-bottom: 15px; */
+    margin-top: 35px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
+.card-body{
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color:rgb(172, 196, 196);
+    /* border-radius: 5px; */
+    margin-bottom: 25px;
+    border:solid black;
+    /* border-top-right-radius:20px ;
+    border-top-left-radius:20px ; */
+
+}
+
+/* #addtaskbtn{
+    border-radius: 50px;
+    
+} */
